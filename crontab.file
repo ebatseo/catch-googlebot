@@ -1,0 +1,2 @@
+1 0 * * * /bin/bash /home/jason/googlebotcheckscript.sh > /dev/null
+1 1 * * * /bin/bash /home/jason/email.sh > /dev/null
